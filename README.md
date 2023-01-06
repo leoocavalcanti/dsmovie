@@ -72,5 +72,5 @@ Execute o arquivo DsmovieApplication.java
 * Controllers
 * Repositories
 * Criar endpoints da API REST
-* Implantação na nuvem (Heroku e Netlify)
+
 
