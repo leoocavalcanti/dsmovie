@@ -10,10 +10,10 @@ function Navbar() {
         <a href="/">
             <h1>DSMovie</h1>
             </a>
-            <a href="https://github.com/robinhosz" target="_blank" rel="noreferrer">
+            <a href="https://github.com/leoocavalcanti" target="_blank" rel="noreferrer">
                 <div className="dsmovie-contact-container">
                     <GithubIcon />
-                    <p className="dsmovie-contact-link">/robinhosz</p>
+                    <p className="dsmovie-contact-link">/leoocavalcanti</p>
                 </div>
             </a>
         </div>

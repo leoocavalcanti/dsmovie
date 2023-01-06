@@ -12,6 +12,16 @@ header {
     color: #fff;
 }
 
+.dsmovie-nav-content a {
+    
+    transition: 0.4s;
+}
+
+.dsmovie-nav-content a:hover {
+    
+    opacity: 0.8;
+}
+
 .dsmovie-nav-content h1 {
     margin: 0;
     font-weight: 700;
