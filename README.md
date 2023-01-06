@@ -14,7 +14,6 @@ Axios
 React Router Dom
 TypeScript
 Styled-Components
-Netlify
 #
 * Tecnologias utilizadas no back-end
 
@@ -23,7 +22,6 @@ Spring Boot
 Spring Data JPA
 Spring Web
 H2 DataBase
-Heroku
 PostgreSQL
 #
 
@@ -33,8 +31,10 @@ Primeiramente crie uma pasta e clone meu repositório lá dentro.
 
 ```
 Comando para clonar:
+
 git clone https://github.com/leoocavalcanti/dsmovie
 Comando para entrar na página:
+
 cd dsmovie
 ```
 #
@@ -43,20 +43,25 @@ Para iniciar o front-end, siga os passos abaixo:
 ```
  Instalar o yarn (install yarn)
  npm install -g yarn
+ 
  Instalar as dependências
  yarn
+ 
  Iniciar o projeto
  yarn start
+ 
  app estará disponível no seu browser pelo endereço => http://localhost:3000.
 ```
 #
 
 Para iniciar o back-end, siga os passos abaixo:
 
-`Abra a pasta backend em uma IDE java;
-Instale as dependências do maven;
+```
+Abra a pasta backend em uma IDE java
+Instale as dependências do maven
+
 Execute o arquivo DsmovieApplication.java
-`
+```
 
 ## Após todos os passos completos, o front-end e o back-end do projeto estará em funcionamento.
 
