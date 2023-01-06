@@ -1,6 +1,11 @@
-# A aplicação consiste uma página contendo uma busca paginada para avaliação de filmes. 
-O back-end foi construído com Spring Boot e o front-end com React
+# A aplicação consiste em um site contendo uma busca paginada para avaliação de filmes. 
+Cada usuário pode avaliar o filme por meio do seu e-mail, as médias são geradas por meio de cada nota do usuário e são mostradas no site.
+* O back-end foi construído com Spring Boot e o front-end com React
 * Projeto desenvolvido com o objetivo de aprimorar minhas habilidades na construção de uma API Restful e o seu consumo.
+#
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/98703816/211059833-0ae971ec-00cb-4909-af9e-776282ebdccd.gif)
+
 #
 * Tecnologias utilizadas no front-end
 
